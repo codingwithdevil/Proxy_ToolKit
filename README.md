@@ -3,7 +3,7 @@ This is a Scraping & Checker Tool with Gui Interface Scrap Proxies[HTTP,HTTPS,SO
         
         
 ### [+] Installation
-*Run setup To install ProxyToolKit *
+*Run setup To install ProxyToolKit*
 
 ### [+] Support :-
 
